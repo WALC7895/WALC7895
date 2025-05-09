@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faleduran.com%2Flenguajes-de-programacion&psig=AOvVaw3QUxxTRAe6i1oPIEdsI1Nb&ust=1746901054529000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMCtu9f_lo0DFQAAAAAdAAAAABAE"  />
+<img align="right" height="150" src="https://aleduran.com/wp-content/uploads/lenguajes-programacion-top.gif"  />
 
 ###
 
