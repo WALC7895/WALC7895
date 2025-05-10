@@ -49,5 +49,4 @@
 
 ###
 <img src="https://raw.githubusercontent.com/WALC7895/WALC7895/output/snake.svg" alt="Snake animation" />
-<img src="https://raw.githubusercontent.com/WALC7895/WALC7895/output/pacman.svg" alt="Pacman animation" />
 ###
